@@ -1,5 +1,7 @@
 # Svelte for Atom
 
+Fork of ide-svelte that includes an up-to-date language server:
+
 Provides syntax highlighting and rich intellisense for Svelte components in Atom, utilising the [svelte language server](https://github.com/UnwrittenFun/svelte-language-server).
 
 ## Why does this exist?
