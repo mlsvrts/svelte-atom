@@ -2,6 +2,14 @@
 
 Provides syntax highlighting and rich intellisense for Svelte components in Atom, utilising the [svelte language server](https://github.com/UnwrittenFun/svelte-language-server).
 
+## Why does this exist?
+
+The parent of this plugin, [svelte-atom](https://github.com/sveltejs/svelte-atom) hasn't seen an update in two years and is
+missing critical features like Svelte 3 support. Thus, ide-svelte-2.
+If there's interest, CI for keeping the language server version up to date automatically may be added. Until then:
+
+The current svelte language server version is 0.11.0
+
 ## Features
 
 -   Svelte

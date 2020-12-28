@@ -1,6 +1,6 @@
 {
-  "name": "ide-svelte",
-  "version": "0.1.1",
+  "name": "ide-svelte-2",
+  "version": "0.1.2",
   "main": "./lib/main.js",
   "description": "Syntax, diagnostics, and other smarts for svelte",
   "keywords": [
@@ -9,7 +9,7 @@
     "svelte",
     "ide"
   ],
-  "repository": "https://github.com/UnwrittenFun/svelte-atom",
+  "repository": "https://github.com/mlsvrts/svelte-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -59,7 +59,7 @@
     }
   },
   "dependencies": {
-    "atom-languageclient": "^0.9.5",
-    "svelte-language-server": "0.6.1"
+    "atom-languageclient": "^0.9.9",
+    "svelte-language-server": "0.11.0"
   }
 }
