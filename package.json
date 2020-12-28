@@ -2,7 +2,7 @@
   "name": "ide-svelte-2",
   "version": "0.2.1",
   "main": "./lib/main.js",
-  "description": "Syntax, diagnostics, and other smarts for svelte",
+  "description": "Fork of ide-svelte that includes an up-to-date language server.",
   "keywords": [
     "language",
     "grammar",
